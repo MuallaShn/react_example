@@ -58,5 +58,8 @@
     .course-desc {
         font-size: 10px;
     }
+    .title{
+        text-align: center;
+    }
 
 }
